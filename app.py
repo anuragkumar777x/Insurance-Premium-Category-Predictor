@@ -21,6 +21,8 @@ tier1_cities = [
     "Ahmedabad"
 ]
 
+
+
 tier2_cities = [
     "Nagpur",
     "Indore",
