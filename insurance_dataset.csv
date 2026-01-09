@@ -1,0 +1,17 @@
+age,weight,height,income_lpa,smoker,city,occupation,insurance_premium_category
+22,55,1.65,3.0,No,Nagpur,Student,Low
+24,58,1.66,3.5,No,Pune,Student,Low
+25,60,1.7,4.0,No,Pune,Engineer,Low
+26,62,1.68,4.5,No,Hyderabad,HR Executive,Low
+27,64,1.69,5.0,No,Mumbai,Designer,Low
+28,72,1.68,6.0,Yes,Mumbai,Sales Executive,Medium
+30,68,1.71,6.0,No,Bangalore,Data Analyst,Medium
+32,80,1.75,8.0,No,Bangalore,Software Engineer,Medium
+35,85,1.72,10.0,Yes,Delhi,Manager,High
+38,82,1.74,11.0,No,Delhi,Architect,Medium
+42,95,1.76,18.0,Yes,Mumbai,Entrepreneur,High
+45,90,1.7,15.0,Yes,Mumbai,Business Owner,High
+48,92,1.7,16.0,Yes,Delhi,Contractor,High
+52,78,1.67,6.0,No,Nagpur,Teacher,Medium
+55,88,1.69,11.0,Yes,Mumbai,Factory Manager,High
+60,80,1.66,6.0,No,Nagpur,Pensioner,Medium
