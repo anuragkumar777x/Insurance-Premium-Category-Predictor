@@ -1,7 +1,11 @@
 fastapi
 uvicorn
+streamlit
 pydantic
 scikit-learn==1.6.1
 numpy
 pandas
 requests
+scipy
+joblib
+typing-extensions
