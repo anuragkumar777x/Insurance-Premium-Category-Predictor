@@ -65,7 +65,7 @@ st.markdown("<h3>AI-Powered Risk Assessment</h3>", unsafe_allow_html=True)
 st.markdown("---")
 
 # ---------------- API ----------------
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL =  "https://insurance-premium-category-predictor-whch.onrender.com/predict"
 
 # ---------------- Inputs ----------------
 with st.container():
