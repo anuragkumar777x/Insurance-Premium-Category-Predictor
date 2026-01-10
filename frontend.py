@@ -61,7 +61,7 @@ div[data-testid="stAlert"] {
 
 # ---------------- Title ----------------
 st.title("Insurance Premium Category Predictor")
-st.markdown("<h3>AI-Powered Risk Assessment</h3>", unsafe_allow_html=True)
+st.markdown("<h3>Predict insurance premium categories with data-driven intelligence</h3>", unsafe_allow_html=True)
 st.markdown("---")
 
 # ---------------- API ----------------
